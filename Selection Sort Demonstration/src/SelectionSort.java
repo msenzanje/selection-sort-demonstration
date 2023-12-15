@@ -6,7 +6,7 @@ import java.time.Duration;
 import java.time.Instant;
 
 //A demonstration of the selection sort algorithm
-public class SelectSort{
+public class SelectionSort{
 
 	public static void main(String args[]){
 
